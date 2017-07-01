@@ -1,0 +1,14 @@
+*.pro.user
+*.zip
+*.mmp
+*.pkg
+*.loc
+*.rss
+*.swp
+qrc_*.cpp
+moc_*.cpp
+bld.inf
+Makefile
+.make.cache
+*.pro.user*
+*.sis
